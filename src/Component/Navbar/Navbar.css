@@ -1,0 +1,45 @@
+nav{
+    background:  linear-gradient(to top, rgba(246,247,249, 0.8), rgb(246,247,249));
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.20), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+a.nav-link{
+    color: black;
+}
+
+
+.navbar .navbar-link > li > a:hover {
+background-color: teal;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: #B70031;
+    text-decoration: none;
+}
+
+.nav-item{
+   margin-right: 1rem;
+   margin-left: 1rem;
+}
+
+
+
+.item-active{
+
+    color:#B70031;
+    
+  }
+
+  .logo{
+      width: 115px;
+      height: 35px;
+      padding: 0;
+  }
+
+  .navbar-light .navbar-toggler-icon {color: #B70031 !important;
+ }
+
